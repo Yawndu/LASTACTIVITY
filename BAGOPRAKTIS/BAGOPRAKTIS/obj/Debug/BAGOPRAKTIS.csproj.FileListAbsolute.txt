@@ -1,0 +1,17 @@
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.frmAdd.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.frmDelete.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.frmEdit.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.frmLogin.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.frmMain.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.Properties.Resources.resources
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\bin\Debug\BAGOPRAKTIS.exe.config
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\bin\Debug\BAGOPRAKTIS.exe
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\bin\Debug\BAGOPRAKTIS.pdb
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\bin\Debug\System.Data.OleDb.dll
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\bin\Debug\System.Data.OleDb.xml
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAK.24E4868A.Up2Date
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.exe
+C:\Users\Kyle\source\repos\BAGOPRAKTIS\BAGOPRAKTIS\obj\Debug\BAGOPRAKTIS.pdb
